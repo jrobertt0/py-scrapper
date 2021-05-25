@@ -10,7 +10,7 @@ En el repositorio debes instalar las siguientes dependencias:
 
 En el archivo .env se deberá escribir lo siguiente:
 
-MAT=< Matricula para ingresar >
+MAT=< Matricula para ingresar > \
 PASS=< Contraseña para ingresar >
 
 ## Extras
